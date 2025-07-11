@@ -63,7 +63,7 @@ Input → LSTM(64) → Dropout(0.3) → LSTM(32) → Dropout(0.3) → Dense(1, a
 
 --- 
 
-## 6. 💡 What is LSTM?
+## 6.  What is LSTM?
 
 **LSTM (Long Short-Term Memory)** is a type of Recurrent Neural Network (RNN) that learns patterns over time.  
 It is ideal for time-series problems because it remembers past inputs to make better decisions at each step.
@@ -72,7 +72,7 @@ It is ideal for time-series problems because it remembers past inputs to make be
 
 ---
 
-## 7. 📈 Model Performance
+## 7.  Model Performance
 
 **Training Summary (after early stopping at 10 epochs):**
 **Train Accuracy:** 88.0%
